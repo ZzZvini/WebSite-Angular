@@ -1,0 +1,11 @@
+.navbar {
+    background-color: rgb(80, 91, 236);
+}
+
+.navbar a {
+    color: whitesmoke;
+}
+
+.navbar ul {
+    margin-left: auto;
+}
